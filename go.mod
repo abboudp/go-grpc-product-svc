@@ -1,4 +1,4 @@
-module github.com/YOUR_USERNAME/go-grpc-product-svc
+module github.com/abboudp/go-grpc-product-svc
 
 go 1.20
 
